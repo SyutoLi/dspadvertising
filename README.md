@@ -2,7 +2,7 @@
 - **服務費**：10%
 
 ## DSP 代操平台
-- [TrafficJunky](./TrafficJunky DSP.md)
+- [TrafficJunky](./TrafficJunkyDSP.md)
 - **TwinRed**
 - **Traforama**
 
