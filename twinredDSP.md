@@ -46,9 +46,9 @@
 ### 追蹤方式：   
 - 網址追蹤：   
     - 基本UTM設置：   
-        - `utm\_source=Twinred\_{siteName}`   
-        - utm\_medium=cpm   
-        - utm\_campaign={campaignID}   
+        - `utm_source=Twinred_{siteName}`   
+        - `utm_medium=cpm`  
+        - `utm_campaign={campaignID}`   
     - 廣告參數：   
         - `{campaignID}`：廣告活動的 ID。   
         - `{siteName}`：廣告所顯示的網站名稱。   
