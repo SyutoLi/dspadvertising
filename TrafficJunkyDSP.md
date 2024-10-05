@@ -44,9 +44,9 @@
 ### 追蹤方式：   
 - 網址追蹤：   
     - 基本UTM設置：   
-        - `utm\_source=TrafficJunky\_{SiteNameID}`   
-        - utm\_medium=cpm   
-        - utm\_campaign={CampaignID}   
+        - `utm_source=TrafficJunky_{SiteName}`   
+        - `utm_medium=cpm`
+        - `utm_campaign={CampaignID}`  
     - 廣告參數：   
         - `{CampaignID}`：廣告活動的 ID。   
         - `{SiteName}`：廣告所顯示的網站名稱。   
