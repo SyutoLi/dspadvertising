@@ -3,7 +3,7 @@
 
 ## DSP 代操平台
 - [TrafficJunky](./TrafficJunkyDSP.md)
-- **TwinRed**
+- [TwinRed](./twinredDSP.md)
 - **Traforama**
 
 ## 接受金流
