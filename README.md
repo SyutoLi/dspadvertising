@@ -4,7 +4,7 @@
 ## DSP 代操平台
 - [TrafficJunky](./TrafficJunkyDSP.md)
 - [TwinRed](./twinredDSP.md)
-- **Traforama**
+- [Traforama](./taraforamaDSP.md)
 
 ## 接受金流
 - **USDT**（穩定幣）
