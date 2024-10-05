@@ -3,8 +3,11 @@
 
 ## DSP 代操平台
 - [TrafficJunky](./TrafficJunkyDSP.md)
+  世界最大成人網站聯播網, 投放系統較為成熟健全
 - [TwinRed](./twinredDSP.md)
+  老牌聯播網，可投 missAV
 - [Traforama](./taraforamaDSP.md)
+  新興聯播網，可投 Jable
 
 ## 接受金流
 - **USDT**（穩定幣）
